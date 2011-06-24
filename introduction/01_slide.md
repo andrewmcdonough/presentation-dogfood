@@ -32,11 +32,6 @@
 * David Hickson
 * Jenna Anians
 
-<!--
-* Steve Reid, Finance Manager
-* David Hickson, Head of Corporate Development
-* Jenna Anians, Business Development Manager
--->
 !SLIDE center
 <img src='file/images/david.png' class="image-slide" />
 
@@ -161,11 +156,6 @@
 !SLIDE center
 <img src='file/images/leaderboard.png' class="image-slide">
 
-!SLIDE center
-<img src='file/images/decisions.png' class="image-slide">
-
-!SLIDE center
-<img src='file/images/lunge.png' class="image-slide">
 
 <!-- Savings -->
 
@@ -176,6 +166,9 @@
 * Savings / month = £1,700
 * Savings / year = £20,400
 * £20,400 is approximately twice $18k :-)
+
+!SLIDE center
+<img src='file/images/happy.png' class="image-slide">
 
 !SLIDE
 # Conclusion:
